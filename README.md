@@ -1,2 +1,4 @@
 # kuaishou_downloader
-tampermonkey script for kuaishou download in pc
+If this tool is useful to you, please give me a star. 
+# Usage
+![](main.png)
